@@ -7,7 +7,7 @@ Variáveis de ambiente necessárias:
 Exemplo:
 
 ```
-export MONGO_URL="mongodb+srv://gataria-tg:minhamae@cluster0.djihq0c.mongodb.net/"
+export MONGO_URL="mongodb+srv://admingataria:minhamae@gataria.4wkifpg.mongodb.net/?retryWrites=true&w=majority"
 export MONGO_DATABASE="dev"
 ```
 
